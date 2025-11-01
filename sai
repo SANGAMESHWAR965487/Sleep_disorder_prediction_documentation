@@ -1,0 +1,15 @@
+http://README.md
+# Sales Prediction Using PrediBot
+
+A Machine Learning project that predicts sales using advertising and competitor data.
+
+## Files
+- Sleep_health_and_lifestyle_dataset.csv – Dataset for model training.
+- Sleep_Disorder_Prediction_Documentation.docx – Project documentation.
+- sales_predibot.py – Python model (to be added).
+
+## Tools Used
+Python, Pandas, NumPy, Scikit-Learn, Matplotlib
+
+## Author
+Karthikeya Veeramallu
